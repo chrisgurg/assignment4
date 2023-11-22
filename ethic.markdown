@@ -35,3 +35,7 @@ References:
 [Proper Privacy and Usage of Data](https://www.analyticsvidhya.com/blog/2022/02/ethics-in-data-science-and-proper-privacy-and-usage-of-data/)
 
 [Ethical Considerations in Data Science](https://iabac.medium.com/ethical-considerations-in-data-science-1453dee88b2)
+
+<div>
+	{% include ethic.html %}
+</div>
